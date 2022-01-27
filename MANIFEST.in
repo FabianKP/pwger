@@ -1,0 +1,6 @@
+
+include pwger/data/wortschatz.dat
+include pwger/data/wortschatz_gross.dat
+include LICENSE
+
+recursive-include tests *.py
